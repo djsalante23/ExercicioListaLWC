@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/djsalante23.lwc-l4pkrocw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve a9NoOCSTqWc53bVTQ2cG --open"
+  }
+}
